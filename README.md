@@ -21,4 +21,4 @@ source("two-stage-npp-tutorial.R")
 
 ## Citation
 
-Maleyeff L, Golchi S, Moodie EEM. *[Title]*. [Journal], [Year].
+Maleyeff L, Golchi S, Moodie EEM. Correlation-Informed Power Priors for Borrowing From a Predictive Biomarker in a Bayesian Adaptive Enrichment Trial. [Journal], 2026.
